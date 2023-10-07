@@ -1,0 +1,35 @@
+[0.642s] Invoking command in '/home/veera/ros2_ws/src/my_robot_controller': PYTHONPATH=/home/veera/ros2_ws/build/my_robot_controller/prefix_override:/home/veera/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/veera/ros2_ws/build/my_robot_controller/build install --record /home/veera/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed
+[0.813s] running egg_info
+[0.813s] creating ../../build/my_robot_controller/my_robot_controller.egg-info
+[0.813s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[0.813s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[0.813s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[0.813s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[0.813s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[0.813s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.814s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.817s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.817s] running build
+[0.817s] running build_py
+[0.817s] creating /home/veera/ros2_ws/build/my_robot_controller/build
+[0.817s] creating /home/veera/ros2_ws/build/my_robot_controller/build/lib
+[0.817s] creating /home/veera/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[0.817s] copying my_robot_controller/__init__.py -> /home/veera/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[0.817s] running install
+[0.820s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.821s]   warnings.warn(
+[0.821s] running install_lib
+[0.821s] creating /home/veera/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.821s] copying /home/veera/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/__init__.py -> /home/veera/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.822s] byte-compiling /home/veera/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/__init__.py to __init__.cpython-310.pyc
+[0.822s] running install_data
+[0.822s] creating /home/veera/ros2_ws/install/my_robot_controller/share/ament_index
+[0.822s] creating /home/veera/ros2_ws/install/my_robot_controller/share/ament_index/resource_index
+[0.822s] creating /home/veera/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.822s] copying resource/my_robot_controller -> /home/veera/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.823s] copying package.xml -> /home/veera/ros2_ws/install/my_robot_controller/share/my_robot_controller
+[0.823s] running install_egg_info
+[0.824s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/veera/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[0.824s] running install_scripts
+[0.839s] writing list of installed files to '/home/veera/ros2_ws/build/my_robot_controller/install.log'
+[0.862s] Invoked command in '/home/veera/ros2_ws/src/my_robot_controller' returned '0': PYTHONPATH=/home/veera/ros2_ws/build/my_robot_controller/prefix_override:/home/veera/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/veera/ros2_ws/build/my_robot_controller/build install --record /home/veera/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed
